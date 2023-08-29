@@ -44,15 +44,30 @@
 },
 
  "my_data":[
-  {"title":"title1 ser","desc":"Standoff V2 is an advanced and updated version of the original Standoff game","photo":"https://iili.io/HDDhtHX.webp"},
-  {"title":"title2 ser","desc":"offering an immersive gaming experience for players who enjoy first-person shooter (FPS) games","photo":"https://iili.io/HDDhDRn.webp"},
-  {"title":"title3 ser","desc":" This version introduces significant enhancements, ranging from graphics and gameplay mechanics to new features and content.","photo":"https://iili.io/HDDhLlI.webp"},
-  {"title":"title4 ser","desc":"Standoff V2 boasts improved graphics that elevate the visual quality of the game. Enhanced textures","photo":"https://iili.io/HDDhQSt.webp"},
-  {"title":"title5 ser","desc":"lighting effects, and detailed environments create a more realistic and captivating atmosphere. ","photo":"https://iili.io/HDDhbNs.webp"},
-  {"title":"title6 ser","desc":"Players can immerse themselves in intricately designed maps that reflect diverse settings, from urban landscapes to remote military installations.","photo":"https://iili.io/HDDhmDG.webp"},
-  {"title":"title7 ser","desc":"The gameplay in Standoff V2 remains true to the fast-paced FPS genre, but with refined mechanics that enhance player control and interaction","photo":"https://iili.io/HDDj9V4.webp"},
-  {"title":"title8 ser","desc":"Shooting mechanics have been optimized for precision and responsiveness, ensuring that each bullet fired and every action taken feels impactful and accurate.","photo":"https://iili.io/HDDhyxf.webp"}
- 
+  {"title":"standoff-v2-10.0- 1",
+"desc":"Continual Innovation: Each iteration of the Standoff series has brought forth advancements that reflect both the demands of the gaming community and the developer's dedication to pushing the boundaries of the genre.",
+"photo":"https://iili.io/Hyh8qhX.jpg"},
+  {"title":"standoff-v2-10.0- 2",
+"desc":"A Legacy of Excellence: Standoff has garnered a dedicated fanbase over the years, thanks to its balanced gameplay, tactical depth, and commitment to providing an immersive FPS experience.",
+"photo":"https://iili.io/Hyh8nBs.png"},
+  {"title":"standoff-v2-10.0- 3",
+"desc":"A well-balanced arsenal is crucial in any FPS game, and Standoff 2 is no exception. The update fine-tunes weapon statistics and recoil patterns, ensuring that no single weapon dominates the battlefield. This promotes strategic diversity and encourages players to experiment with different loadouts.",
+"photo":"https://iili.io/Hyh8FpI.jpg"},
+  {"title":"standoff-v2-10.0- 4",
+"desc":"Version 10.0 introduces exciting new game modes that add variety and replayability to Standoff 2. Whether you're in the mood for classic team deathmatches or more objective-based gameplay, there's a mode to suit your preferences.",
+"photo":"https://iili.io/Hyh8fIt.jpg"},
+  {"title":"standoff-v2-10.0- 5",
+"desc":"The update brings refinements to the matchmaking system, ensuring that players are matched with others of similar skill levels. This fosters fair and competitive matches, enhancing the overall gaming experience.",
+"photo":"https://iili.io/Hyh8BQn.jpg"},
+  {"title":"standoff-v2-10.0- 6",
+"desc":"Standoff 2 has been steadily making a name for itself in the esports arena, and Version 10.0 reinforces this commitment. The update includes features that make it easier for players to engage with the esports scene, such as improved spectator modes and tournament integration.",
+"photo":"https://iili.io/Hyh8oEG.jpg"},
+  {"title":"standoff-v2-10.0- 7",
+"desc":"One of the strengths of Standoff 2 has been its responsiveness to player feedback. Version 10.0 continues this tradition, addressing player concerns and suggestions, further solidifying the bond between the development team and the player community.",
+"photo":"https://iili.io/Hyh8oEG.jpg"},
+  {"title":"standoff-v2-10.0- 8",
+"desc":"Standoff 2 Version 10.0 represents a significant milestone in the game's evolution. With its enhanced graphics, new maps, refined gameplay mechanics, and improved matchmaking, it offers both veteran players and newcomers a reason to dive back into the world of tactical mobile gaming.",
+"photo":"https://iili.io/Hyh8x4f.jpg"}
    ]
 
 }
