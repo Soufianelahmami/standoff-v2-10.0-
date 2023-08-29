@@ -17,41 +17,42 @@
 "admob_banner":"ca-app-pub-3940256099942544/6300978111",
 "admob_native":"ca-app-pub-3940256099942544/2247696110",
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-2745980-1",
-"yandex_inter":"R-M-2745980-5",
-"yandex_native":"R-M-2745980-4",
-"yandex_reward":"R-M-2745980-6",
-  
+
+
+"yandex_banner":"R-M-2745979-1",
+"yandex_inter":"R-M-2745979-5",
+"yandex_native":"R-M-2745979-3",
+"yandex_reward":"R-M-2745979-2",
+
+
+
+
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
 "vungle_banner":"DEFAULTBANNER-5844358",
 "vungle_reward":"",
 
-  
- "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
-   ],
+"start_vpn":"yes",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob"
 
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
-  
+
+
 
 },
-  "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/Ht07B6b.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
-   ]
+
+ "my_data":[
+  {"title":"title1 ser","desc":"Standoff V2 is an advanced and updated version of the original Standoff game","photo":"https://iili.io/HDDhtHX.webp"},
+  {"title":"title2 ser","desc":"offering an immersive gaming experience for players who enjoy first-person shooter (FPS) games","photo":"https://iili.io/HDDhDRn.webp"},
+  {"title":"title3 ser","desc":" This version introduces significant enhancements, ranging from graphics and gameplay mechanics to new features and content.","photo":"https://iili.io/HDDhLlI.webp"},
+  {"title":"title4 ser","desc":"Standoff V2 boasts improved graphics that elevate the visual quality of the game. Enhanced textures","photo":"https://iili.io/HDDhQSt.webp"},
+  {"title":"title5 ser","desc":"lighting effects, and detailed environments create a more realistic and captivating atmosphere. ","photo":"https://iili.io/HDDhbNs.webp"},
+  {"title":"title6 ser","desc":"Players can immerse themselves in intricately designed maps that reflect diverse settings, from urban landscapes to remote military installations.","photo":"https://iili.io/HDDhmDG.webp"},
+  {"title":"title7 ser","desc":"The gameplay in Standoff V2 remains true to the fast-paced FPS genre, but with refined mechanics that enhance player control and interaction","photo":"https://iili.io/HDDj9V4.webp"},
+  {"title":"title8 ser","desc":"Shooting mechanics have been optimized for precision and responsiveness, ensuring that each bullet fired and every action taken feels impactful and accurate.","photo":"https://iili.io/HDDhyxf.webp"}
  
+   ]
+
 }
