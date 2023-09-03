@@ -32,11 +32,11 @@
 "vungle_banner":"DEFAULTBANNER-5844358",
 "vungle_reward":"",
 
-"start_vpn":"yes",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"start_vpn":"no",
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
 
 
 
